@@ -26,4 +26,4 @@ jobs:
         run: |
          pre-commit run --all-files
          $HOME/.luarocks/bin/luacheck .
- 
+
